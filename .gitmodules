@@ -1,0 +1,3 @@
+[submodule "Resources/lib/swfobject"]
+	path = Resources/lib/swfobject
+	url = https://github.com/swfobject/swfobject.git
