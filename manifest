@@ -1,5 +1,5 @@
 #appname:Flash TideSDK App
-#appid:org.motin.flashtest
+#appid:org.motin.tidesdkflashtest
 #publisher:Motin
 #image:default_app_logo.png
 #url:http://motin.eu
@@ -7,14 +7,15 @@
 #desc:Desc
 #type:desktop
 runtime:1.3.1-beta
-worker:1.3.1-beta
-codec:1.3.1-beta
 app:1.3.1-beta
-media:1.3.1-beta
-network:1.3.1-beta
-monkey:1.3.1-beta
-ui:1.3.1-beta
+codec:1.3.1-beta
 database:1.3.1-beta
 filesystem:1.3.1-beta
-process:1.3.1-beta
+media:1.3.1-beta
+monkey:1.3.1-beta
+network:1.3.1-beta
 platform:1.3.1-beta
+process:1.3.1-beta
+ui:1.3.1-beta
+update:1.3.1-beta
+worker:1.3.1-beta
